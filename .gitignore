@@ -1,0 +1,9 @@
+.*.bkp
+printer-*.cfg
+*.backup
+ShakeTune_*
+mainsail.cfg
+priv/
+moonraker.conf
+crowsnest.conf
+KlipperScreen.conf
